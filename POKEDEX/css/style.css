@@ -41,8 +41,8 @@ position: relative;
 
 .pokemon_nome{ 
     position: absolute;
-    top: 21.3%;
-    left: 35.5%;
+    top: 22.3%;
+    left: 30.5%;
     color: #3a444d;
     text-transform: capitalize
 }
@@ -55,7 +55,10 @@ position: relative;
 }
 
 .input_search{
-    width: 100%;
+    position: absolute;
+    right: 27.55%; 
+    top: 70.5%;
+    width: 70%;
     padding: 4%;
     outline: none;
     border: 2px solid #333;
@@ -68,8 +71,8 @@ position: relative;
 .buttons {
     position: absolute;
    
-    top: 50%;
-    left: -61.5%;
+    top: 46%;
+    left: -61.95%;
     width: 130%;
     transform: translate(35.5%,0);
     display: flex;
