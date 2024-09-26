@@ -1,4 +1,3 @@
-# Meus projetos
-Oi gente, eu sou o Clever e acabei de chegar no GitHub. 
-
-Esse cantinho vai ser onde compartilho minhas ideias malucas e projetos que estou aprontando. Quero inventar coisas legais e trocar uma ideia com a galera do open source.
+# Minha primeira Pokédex
+Oi gente, eu esqueci de mudar o nome da pasta mas agora já era ksksks
+Esse foi um projeto que eu vi no Youtube e tentei reproduzir e saiu essa pokédex, onde da pra ver os pokémons com base no id deles
